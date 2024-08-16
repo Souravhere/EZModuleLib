@@ -1,0 +1,36 @@
+{
+  "name": "ezmodule",
+  "version": "1.3.0",
+  "description": "A collection of easy-to-use React components",
+  "main": "dist/ezmodules.umd.js",
+  "module": "dist/ezmodules.es.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "start": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.0.0"
+  },
+  "author": "Sourav Chhimpa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souravhere/ezmodule.git"
+  },
+  "homepage": "https://ez-modules.vercel.app/"
+}
