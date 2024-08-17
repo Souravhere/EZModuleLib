@@ -8,14 +8,15 @@ export default defineConfig({
       entry: 'src/main.js',
       name: 'EZModule',
       formats: ['es', 'umd'],
-      fileName: (format) => `ezmodules.${format}.js`
+      fileName: (format) => `ezmodule.${format}.js`
     },
     rollupOptions: {
-      external: ['react', 'react-dom'],
+      external: ['react', 'react-dom', 'prop-types'],
       output: {
         globals: {
           react: 'React',
-          'react-dom': 'ReactDOM'
+          'react-dom': 'ReactDOM',
+          'prop-types': 'PropTypes'
         }
       }
     }
