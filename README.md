@@ -1,9 +1,11 @@
+# EZModule
 
-# EZ Modules
-
+![EZModule](https://github.com/Souravhere/EZModules/raw/main/SourceImage/index-preview.png) 
 ### 🚀 Introduction
 
-EZ Modules is a versatile and modern React component library developed with the aim of simplifying the web development experience. It offers a diverse range of UI and feature-based components that are both reusable and customizable, making it easier for developers to build high-quality web applications efficiently.
+EZModule is a versatile and modern React component library developed with the aim of simplifying the web development experience. It offers a diverse range of UI and feature-based components that are both reusable and customizable, making it easier for developers to build high-quality web applications efficiently.
+
+[![Read Docs](https://img.shields.io/badge/Read%20Docs-%230000FF.svg?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ez-modules.vercel.app/)
 
 ### 🎯 Key Features
 
