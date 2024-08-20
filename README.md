@@ -1,6 +1,6 @@
 # EZModule
 
-![EZModule](https://github.com/Souravhere/EZModules/raw/main/SourceImage/index-preview.png) 
+![EZModule](https://github.com/Souravhere/EZModules/blob/main/SourceImg/index-preview.png?raw=true) 
 ### 🚀 Introduction
 
 EZModule is a versatile and modern React component library developed with the aim of simplifying the web development experience. It offers a diverse range of UI and feature-based components that are both reusable and customizable, making it easier for developers to build high-quality web applications efficiently.
